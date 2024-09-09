@@ -1,0 +1,7 @@
+.venv/
+
+parquet_files/
+sample_submission.csv
+feature_definitions.csv
+result_test.csv
+result_train.csv
